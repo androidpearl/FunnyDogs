@@ -12,6 +12,7 @@ Feel free to suggest changes by pull request.
 
 Android Kotlin, Multi Platform, MVVM, Ktor, Koin, Dependency Injector
 
+Free Api used : https://dog.ceo/dog-api/
 
 
 
