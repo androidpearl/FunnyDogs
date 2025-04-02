@@ -1,1 +1,2 @@
-*.* lingulist-language=Kotlin
+*.html lunguist-detectable-false
+*.* lingulist-language=kotlin
